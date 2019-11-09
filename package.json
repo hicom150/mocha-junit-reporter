@@ -33,7 +33,7 @@
     "debug": "^4.1.1",
     "md5": "^2.1.0",
     "mkdirp": "~0.5.1",
-    "strip-ansi": "^5.0.0",
+    "strip-ansi": "^6.0.0",
     "xml": "^1.0.0"
   },
   "peerDependencies": {
